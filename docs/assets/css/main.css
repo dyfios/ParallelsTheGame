@@ -2329,6 +2329,11 @@
 			text-align: center;
 		}
 
+		.centered-image {
+			width: 100%;
+			height: auto;
+		}
+		
 		.box .image.featured {
 			border-radius: 0;
 			display: block;
